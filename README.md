@@ -1,2 +1,2 @@
 # APS-reborn
-Заглушка для информирования о смене адреса
+Репозиторий APS (бывший APS-reborn) теперь расположен по адресу [htpps://github.com/MPSU/APS](htpps://github.com/MPSU/APS).
